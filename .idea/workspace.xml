@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45e5e204-babb-4a12-8ddf-d79717637dad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/trycatch/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trycatch/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trycatch/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trycatch/ArrayExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681117490192</updated>
       <workItem from="1681117491521" duration="4499000" />
-      <workItem from="1681180428379" duration="1249000" />
+      <workItem from="1681180428379" duration="6206000" />
     </task>
     <servers />
   </component>
