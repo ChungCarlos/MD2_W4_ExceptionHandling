@@ -23,6 +23,7 @@ public class ArrayExample {
     public static void main(String[] args) {
         ArrayExample arrExample = new ArrayExample();
         Integer[] arr = arrExample.createRandom();
+        // Tạo ngẫu nhiên 100 số trong arr...
 
         Scanner sc = new Scanner(System.in);
 
